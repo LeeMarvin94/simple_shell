@@ -1,25 +1,3 @@
-_atoi.c
-Qui a accès
-O
-Propriétés système
-Type
-C
-Taille
-1 Ko
-Espace de stockage utilisé
-1 Ko
-Emplacement
-simple_shell
-Propriétaire
-Ojo Samuel
-Date de modification
-4 nov. 2022 par Ojo Samuel
-Ouvert
-22:46 par moi
-Date de création
-4 nov. 2022
-Pas de description
-Téléchargement autorisé pour les lecteurs
 #include "shell.h"
 
 /**
